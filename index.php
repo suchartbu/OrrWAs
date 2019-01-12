@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Goto index.php of default App.
+ * Goto default App.
  */
-header("Location: https://localhost/OrrWAs/sample");
+header("Location: https://localhost/OrrWAs/apps/sample");
 exit;
