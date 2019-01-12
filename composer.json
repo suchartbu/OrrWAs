@@ -1,0 +1,13 @@
+{
+    "name": "orr/orr-w-as",
+    "description": "Description of project OrrWAs.",
+    "authors": [
+        {
+            "name": "Suchart Bunhachirat",
+            "email": "suchartbu@gmail.com"
+        }
+    ],
+    "require": {
+        "codeigniter/framework": "3.1.9"
+    }
+}
