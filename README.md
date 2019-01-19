@@ -9,6 +9,7 @@ OrrWAs is an Web Application Structure.
 ## Release Information
 - Support to Manage Multiple Applications in CodeIgniter.
 - Support to dependency manament with Composer.
+- Support to JSON-RPC web service application.
 
 
 ## Changelog and New Features
