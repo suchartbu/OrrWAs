@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "codeigniter/framework": "3.1.9",
+        "codeigniter/framework": "3.1.10",
         "jsonrpc/jsonrpc": "v1.0.3"
     }
 }

@@ -21,7 +21,7 @@ class Welcome extends CI_Controller {
     public function index() {
         //$sign_ = $this->OrrAuthorize->getSignData();
         $sign_ = ['status'=>''];
-        $orr_ = ['title' => "Orr Projects"];
+        $orr_ = ['title' => "Orr WAs"];
         if ($sign_['status'] === 'Online') {
             $menu_ = ['projects_url' => site_url('Setting'), 'mark_url' => site_url('Mark/signout'), 'mark_user' => $sign_['user'], 'mark_user_icon' => "glyphicon glyphicon-user", 'mark_function' => "Sign Out", 'mark_function_icon' => "glyphicon glyphicon-log-out"];
         } else {

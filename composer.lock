@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "7c8244f1152d8bc5accaef3eca01cc45",
+    "content-hash": "49b0c4dde86ce4d5c29c7bf4c84a1946",
     "packages": [
         {
             "name": "codeigniter/framework",
-            "version": "3.1.9",
+            "version": "3.1.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bcit-ci/CodeIgniter.git",
-                "reference": "30e2eafa86c4c7b6b39cea3e7089a90df9f603fb"
+                "reference": "c576995304fc3609cca0b7b92d1b2cd611ec82f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/30e2eafa86c4c7b6b39cea3e7089a90df9f603fb",
-                "reference": "30e2eafa86c4c7b6b39cea3e7089a90df9f603fb",
+                "url": "https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/c576995304fc3609cca0b7b92d1b2cd611ec82f5",
+                "reference": "c576995304fc3609cca0b7b92d1b2cd611ec82f5",
                 "shasum": ""
             },
             "require": {
@@ -37,7 +37,7 @@
             ],
             "description": "The CodeIgniter framework",
             "homepage": "https://codeigniter.com",
-            "time": "2018-06-12T13:45:46+00:00"
+            "time": "2019-01-16T15:49:35+00:00"
         },
         {
             "name": "jsonrpc/jsonrpc",
