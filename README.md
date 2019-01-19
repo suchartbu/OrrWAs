@@ -14,24 +14,24 @@ latest stable release please visit the `CodeIgniter Downloads
 You can find a list of all changes for each release in the `user
 guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
-# Server Requirements
+## Server Requirements
 
 PHP version 7 or newer is recommended.
 
 ************
-Installation
+## Installation
 ************
 
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
 *******
-License
+## License
 *******
 
 
 *********
-Resources
+## Resources
 *********
 
 -  `User Guide <https://codeigniter.com/docs>`_
@@ -44,7 +44,7 @@ Report security issues to our `Security Panel <mailto:security@codeigniter.com>`
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
-Acknowledgement
+## Acknowledgement
 ***************
 
 The CodeIgniter team would like to thank EllisLab, all the
