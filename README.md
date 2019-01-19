@@ -1,8 +1,9 @@
 # What is OrrWAs
 
-OrrWAs is an Web Application Structure.
-* CodeIgniter is an Application Development Framework.
-* Composer is a tool for dependency management in PHP.
+OrrWAs is an Web Application Structure. 
+* CodeIgniter is an Application Development Framework. <https://codeigniter.com/>
+* Composer is a tool for dependency management in PHP. <https://getcomposer.org/>
+* JSON-RPC is a protocol that allows servers to talk to each other using json-encoded structures. <https://github.com/johnstevenson/jsonrpc>
 
 
 ## Release Information
