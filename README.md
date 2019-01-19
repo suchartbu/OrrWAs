@@ -1,6 +1,8 @@
-# OrrWAs คืออะไร
+# What is OrrWAs
 
 OrrWAs is an Web Application Structure.
+* CodeIgniter is an Application Development Framework.
+
 
 ## Release Information
 
