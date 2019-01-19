@@ -2,6 +2,7 @@
 
 OrrWAs is an Web Application Structure.
 * CodeIgniter is an Application Development Framework.
+* Composer is a tool for dependency management in PHP.
 
 
 ## Release Information
