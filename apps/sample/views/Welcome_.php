@@ -29,7 +29,7 @@
                 <ul class="nav navbar-nav">
                     <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-th-list"></span></a>
                         <ul class="dropdown-menu">
-                            <li>ระบบงาน</li>
+                            <li><a href="https://localhost/OrrWAs/vendor/codeigniter/framework/">CodeIgniter Application</a></li>
                         </ul>
                     </li>
                 </ul>

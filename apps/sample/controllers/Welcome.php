@@ -29,11 +29,11 @@ class Welcome extends CI_Controller {
         }
         //$menu_['my_sys'] = $this->OrrAuthorize->getSysParent();
         $menu_['my_sys'] = 'OrrWAs';
+        echo assets_url();
         $this->setMyView((object) ['output' => '', 'js_files' => [], 'css_files' => [], 'view_' => $sign_, 'orr_' => $orr_, 'menu_' => $menu_]);
     }
 
     private function setMyView(object $output) {
-        https://[::1]/OrrWAs/assets/jquery-3.min.js
         $output->view_['css_files'] = ['https://[::1]/OrrWAs/assets/jquery-ui/jquery-ui.min.css', 'https://[::1]/OrrWAs/assets/bootstrap-3/css/bootstrap.min.css'];
         $output->view_['js_files'] = ['https://[::1]/OrrWAs/assets/jquery-3.min.js', 'https://[::1]/OrrWAs/assets/jquery-ui/jquery-ui.min.js', 'https://[::1]/OrrWAs/assets/bootstrap-3/js/bootstrap.min.js'];
         $this->load->view('Welcome_', $output);
