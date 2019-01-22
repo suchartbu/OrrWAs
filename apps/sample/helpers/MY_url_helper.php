@@ -1,11 +1,10 @@
 <?php
 
 /* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Orr Helper Functions
  */
 
-function assets_url(){
-    return "https://localhost/OrrWAs/assets/";
+function assets_url($url){
+    //return "http://[::1]/OrrWAs/assets/" . $url;
+    return base_url('/assets/'.$url);
 }

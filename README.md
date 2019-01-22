@@ -1,4 +1,4 @@
-# What is OrrWAs
+# Web Application Structure.
 
 OrrWAs is an Web Application Structure. 
 - Support to Manage Multiple Applications in CodeIgniter.
@@ -32,6 +32,7 @@ PHP version 7 or newer is recommended.
 *********
 ## Resources
 *********
+* แก้ให้ใช้ URL ภาษาไทย http://www.iponthakorn.com/2014/11/codeigniter-url.html
 * CodeIgniter is an Application Development Framework. <https://codeigniter.com/>
 * Composer is a tool for dependency management in PHP. <https://getcomposer.org/>
 * JSON-RPC is a protocol that allows servers to talk to each other using json-encoded structures. <https://github.com/johnstevenson/jsonrpc>
@@ -42,10 +43,5 @@ PHP version 7 or newer is recommended.
 ***************
 
 
+#Installation Instructions
 
-
-# OrrWAs
-PHP Project with CodeIgniter for web application.
-
-แก้ให้ใช้ URL ภาษาไทย
-http://www.iponthakorn.com/2014/11/codeigniter-url.html
