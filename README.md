@@ -1,13 +1,14 @@
 # Web Application Structure.
 
-OrrWAs is an Web Application Structure. 
-- Support to Manage Multiple Applications in CodeIgniter.
-- Support to dependency manament with Composer.
+OrrWAs is a Web Application Structure. 
+- Support to CodeIgniter Framework.
+- Support to dependency management with Composer.
 - Support to JSON-RPC web service application.
 - Support to Netbean IDE.
 
-## Release Information
-
+## Installation Instructions
+* Create projects with Netbean IDE.
+* Update dependency manament with Composer.
 
 
 ## Changelog and New Features
@@ -42,6 +43,4 @@ PHP version 7 or newer is recommended.
 ## Acknowledgement
 ***************
 
-
-#Installation Instructions
 
