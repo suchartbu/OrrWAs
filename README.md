@@ -44,5 +44,3 @@ PHP version 7 or newer is recommended.
 ***************
 
 
-#Installation Instructions
-
